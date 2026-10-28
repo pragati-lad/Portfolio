@@ -13,7 +13,10 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pragati Lad — Developer & Data Enthusiast",
+  title: "Pragati Lad",
+  icons: {
+    icon: "/Portfolio/favicon.png",
+  },
   description:
     "Portfolio of Pragati Lad — building at the intersection of software and data. Full-stack apps, ML pipelines, and data analytics.",
 };
